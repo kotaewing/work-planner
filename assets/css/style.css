@@ -14,11 +14,6 @@ body {
     width: 100%;
   }
 
-  p {
-    padding-top: 10px;
-    height: 100%;
-    display: inline;
-  }
 
   .jumbotron {
     text-align: center;
